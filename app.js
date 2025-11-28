@@ -6,7 +6,7 @@ document.addEventListener("keydown", keyDown);
 document.addEventListener("keyup", keyUp);
 
 let player = {
-    speed: 5,
+    speed: 7,
 };
 
 startScreen.addEventListener("click", startGame);
